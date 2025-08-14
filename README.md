@@ -12,15 +12,31 @@ Applications Included
    - Allows viewing of image files directly within the encrypted environment.
    - Prevents data leakage by avoiding temporary file extraction.
 
+<p align="center">
+   <img alt="Image" src="https://github.com/sdmdg/vaultapp/assets/151946448/a5da6b4a-49b8-48d2-8bc1-7604353dd7db" />
+   <img alt="Image" src="https://github.com/sdmdg/vaultapp/assets/151946448/eb1405f0-8135-456b-9193-c7341a313b93" />
+</p>
+
 2. [SecureErase](https://github.com/sdmdg/secure-erase)
+
    - Performs multi-pass overwriting of files before deletion.
    - Ensures that deleted files cannot be recovered using standard recovery tools.
    - Ideal for securely disposing of sensitive documents.
 
+<p align="center">
+   <img alt="Image" src="https://github.com/sdmdg/secure-erase/assets/151946448/bff078af-eb49-46f5-8dbc-63a3fbf2fccc" />
+</p>
+
 3. [EaseEncrypt](https://github.com/sdmdg/ease-encrypt)
+
    - Provides quick, one-click encryption for files.
    - Simplifies the process of protecting personal or sensitive information.
    - Supports integration into daily workflows for rapid data security.
+
+<p align="center">
+   <img alt="Image" src="https://github.com/sdmdg/ease-encrypt/assets/151946448/0320fafe-300c-4173-8841-40c0b9ac5274" />
+</p>
+
 
 Key Features
 ------------
